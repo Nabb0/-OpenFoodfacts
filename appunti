@@ -1,0 +1,24 @@
+npm i -g @angular/cli
+ng serve --disable-host-check
+
+Crea il progetto 
+ng new 
+
+directory del progetto 
+ cd second-routed-app
+ 
+ng add @ng-bootstrap/ng-bootstrap
+
+Crea un componente
+
+ng generate component nome-componente
+ng g c nome-componente
+
+
+apre il termianl 
+control shift o 
+
+
+bash 
+ ps -a processi attivi 
+ sudo kill -9 nemero processo = uccide il processo 
